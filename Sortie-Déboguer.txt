@@ -1,0 +1,12 @@
+﻿'Project11.exe' (Win32) : Chargé 'C:\Users\qingl\Desktop\sss\x64\Debug\Project11.exe'. Les symboles ont été chargés.
+'Project11.exe' (Win32) : Chargé 'C:\Windows\System32\ntdll.dll'. 
+'Project11.exe' (Win32) : Chargé 'C:\Windows\System32\kernel32.dll'. 
+'Project11.exe' (Win32) : Chargé 'C:\Windows\System32\KernelBase.dll'. 
+'Project11.exe' (Win32) : Chargé 'C:\Windows\System32\vcruntime140d.dll'. 
+'Project11.exe' (Win32) : Chargé 'C:\Windows\System32\ucrtbased.dll'. 
+Le thread 0x1224 s'est arrêté avec le code 0 (0x0).
+'Project11.exe' (Win32) : Chargé 'C:\Windows\System32\kernel.appcore.dll'. 
+'Project11.exe' (Win32) : Chargé 'C:\Windows\System32\msvcrt.dll'. 
+Le thread 0x3494 s'est arrêté avec le code 0 (0x0).
+Le thread 0xca8 s'est arrêté avec le code 0 (0x0).
+Le programme '[19828] Project11.exe' s'est arrêté avec le code 0 (0x0).
